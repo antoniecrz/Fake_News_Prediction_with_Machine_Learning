@@ -1,5 +1,4 @@
 # Fake News Prediction with Machine Learning
-Final Year Project for BSc (Hons) So# Fake News Prediction with Machine Learning
 Final Year Project for BSc (Hons) Software Engineering that approaches Supervised Learning for Fake News Prediction; using data mining and analysis. Essentially creating a computing artefact, where designing, implementing and evaluating a piece of software in predicting fake news with machine learning algorithms.
 ## Installation
 ### Anaconda 
@@ -9,11 +8,3 @@ Final Year Project for BSc (Hons) Software Engineering that approaches Supervise
 
 ## Datasets
 * Datasets used can be downloaded [here](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) from Kaggle
-
-ftware Engineering that approaches Supervised Learning for Fake News Prediction; using data mining and analysis. Essentially creating a computing artefact, where designing, implementing and evaluating a piece of software in predicting fake news with machine learning algorithms.
-## Installation
-### Anaconda MacOS
-
-## Datasets
-Datasets used can be downloaded from Kaggle:
-https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
