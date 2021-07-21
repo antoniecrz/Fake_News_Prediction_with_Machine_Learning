@@ -8,3 +8,8 @@ Download the graphical [installer](https://www.anaconda.com/products/individual#
 
 ## Datasets
 Download the datasets used [here](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset "Kaggle: Fake and Real News datasets")
+
+## Images
+The images included are required for the use of word cloud mask
+* fake.png
+* real.png
